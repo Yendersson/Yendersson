@@ -2,16 +2,9 @@
 #### I am a Venezuelan Full-Stack Developer living in Argentina.
 
 
+ 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](.)  
-
-
-
-
-
-
-
-
+![53cb45f75b2ea67f71d5670620412a59fa791931998b5c281661e4be654e1c8c 0](https://user-images.githubusercontent.com/91692179/188045890-bf72b02a-0c0d-4a6f-ac6f-fa7c9f75cf72.png)
 
 
 <!--
