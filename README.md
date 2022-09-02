@@ -18,7 +18,13 @@
 ![file_type_mongo_icon_130383](https://user-images.githubusercontent.com/91692179/188049927-f4452d6c-937c-44e0-bbbe-8d44e29cc162.png)
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/91692179/188049941-97f5ee55-97e4-4ec6-9b6b-72bc31890459.png)
 ![nodejs_original_logo_icon_146411](https://user-images.githubusercontent.com/91692179/188049946-7eecb5b5-64a2-4ffe-ac96-26b483d07b89.png)
-![icon_sql_256_30046](https://user-images.githubusercontent.com/91692179/188049986-714177e7-856e-499b-b7c9-be7d99ddd272.png)
+![icon_sql_256_30046](https://user-images.githubusercontent.com/91692179/188050352-f18283f3-47c7-4453-9b19-3e8f3b9d77ad.png)
+
+![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/91692179/188050603-d4e90fe1-2f1f-4c5e-b5d8-b4f293e6f221.png)
+
+
+
+![express_original_logo_icon_146527](https://user-images.githubusercontent.com/91692179/188050592-fba545b4-addb-42d0-bf24-4b520be40b3c.png)
 
 <!--
 **Yendersson/Yendersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
