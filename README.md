@@ -12,7 +12,6 @@
 
 
 
-![70-708005_chibi-base-para-avatar-2-para-avatar](https://user-images.githubusercontent.com/91692179/188045491-295e4a6c-0ace-4a0b-80ae-f58938ba43aa.png)
 
 
 <!--
