@@ -13,16 +13,14 @@
 
 
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/91692179/188049785-b20a1fec-94e2-42c6-bc84-274dbb825a07.png)
-
 ![css_filetype_icon_177544](https://user-images.githubusercontent.com/91692179/188049818-23d1a93f-97fd-4ddd-bc9a-f6d905f0bf92.png)
 ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/91692179/188049911-55248f9c-1d5c-4a45-9e62-562a2fa45585.png)
 ![file_type_mongo_icon_130383](https://user-images.githubusercontent.com/91692179/188049927-f4452d6c-937c-44e0-bbbe-8d44e29cc162.png)
-
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/91692179/188049941-97f5ee55-97e4-4ec6-9b6b-72bc31890459.png)
-
 ![nodejs_original_logo_icon_146411](https://user-images.githubusercontent.com/91692179/188049946-7eecb5b5-64a2-4ffe-ac96-26b483d07b89.png)
-<!--![icon_sql_256_30046](https://user-images.githubusercontent.com/91692179/188049986-714177e7-856e-499b-b7c9-be7d99ddd272.png)
+![icon_sql_256_30046](https://user-images.githubusercontent.com/91692179/188049986-714177e7-856e-499b-b7c9-be7d99ddd272.png)
 
+<!--
 **Yendersson/Yendersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
