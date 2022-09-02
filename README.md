@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Yenderson
 #### I am a Venezuelan Full-Stack Developer living in Argentina.
 
+![image](https://user-images.githubusercontent.com/91692179/188044442-5200d340-b1d8-4ac6-950d-005ba2287e96.png)
+
+
 <!--
 **Yendersson/Yendersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
